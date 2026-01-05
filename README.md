@@ -1,0 +1,1 @@
+This is a simple contact list containing two CSS styles. To change the styles, just modify the file linked on line 7 of the CSS reference.
